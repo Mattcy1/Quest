@@ -19,10 +19,10 @@ Completed:
 * 3 Quests
 * Saving
 * Sandbox dectection
+* Prestige
 
 Yet to Come:
 
-* Prestige
 * More Quests
   
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/Quest/total?label=Total%20Dowloads"></h1>
