@@ -2,8 +2,8 @@ namespace QuestMod;
 
 public static class ModHelperData
 {
-    public const string WorksOnVersion = "43.2";
-    public const string Version = "1.3";
+    public const string WorksOnVersion = "47";
+    public const string Version = "1.4";
     public const string Name = "Quest++";
 
     public const string Description = "Adds three types of quests in the top right corner: Bloon Pops, Money Earned, and Quests Completed. Finishing a quest rewards you with monkey money. Update unlocked! Add a new prestige button as well as some other stuff prestige reset all your quest in exchange for double monkey money (u will get 20 instead of 10 and it stack)";
